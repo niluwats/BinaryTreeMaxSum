@@ -32,7 +32,7 @@ func TestHandleMaxPathSum(t *testing.T) {
 			Expected:   18,
 			StatusCode: http.StatusOK,
 		},
-		// Add more test cases as needed
+		
 	}
 
 	for _, tc := range testCases {
